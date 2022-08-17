@@ -6,5 +6,7 @@ Toda mi experiencia laboral me ha madurado en muchos senditos y los conocimiento
 
 Todo esto da como resultado a una persona emocionada y motivada por trabajar en lo que le gusta, con habilidades técnicas sólidas y habilidades blandas internalizadas producto de la amplia experiencia laboral.
 
-Contacto: 📧 Mail: silvamaxiblas@gmail.com 📱 Whatsapp: +54 9 341 6 297919 🧑‍💻 LinkedIn: https://www.linkedin.com/in/fullstackjs-maxi/
+Contacto: 📧 Mail: silvamaxiblas@gmail.com 
+          📱 Whatsapp: +54 9 341 6 297919 
+          💻 LinkedIn: https://www.linkedin.com/in/fullstackjs-maxi/
 
