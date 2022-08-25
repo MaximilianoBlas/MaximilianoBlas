@@ -2,7 +2,7 @@ Hola! 👋 soy Maxi un Full Stack Developer con muchas ganas de crecer en el mer
 
 Toda mi vida me encanto la matematica y finalmente encontre un trabajo donde se une mi pasión con una actividad laboral que me gusta. Por lo que programar es algo apasionante para mi. Me encanta dar el %110 porciento todas las veces. Formar parte de grandes proyectos es un sueño para mi. 
 
-Toda mi experiencia laboral me ha madurado en muchos senditos y los conocimientos tecnicos aprendidos en el Bootcamp de Henry y puesto en practico en posteriores proyectos como el Recetario Digital Web y la Aplicacion Movil Fixy logran consolidarme en muchos lenguajes como :JavaScript, React, React Native, Redux, Express, PostgreSQL, SQLite, Sequelize entró otros lenguajes.
+Toda mi experiencia laboral me ha madurado en muchos sentidos y los conocimientos tecnicos aprendidos en el Bootcamp de Henry y puesto en practico en posteriores proyectos como el Recetario Digital Web y la Aplicacion Movil Fixy logran consolidarme en muchos lenguajes como :JavaScript, React, React Native, Redux, Express, PostgreSQL, SQLite, Sequelize entró otros lenguajes.
 
 Todo esto da como resultado a una persona emocionada y motivada por trabajar en lo que le gusta, con habilidades técnicas sólidas y habilidades blandas internalizadas producto de la amplia experiencia laboral.
 
